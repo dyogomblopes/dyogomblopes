@@ -14,8 +14,11 @@
  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-Um desenvolvedor Front-end que adora aplicar seus conhecimentos para resolver problemas, criar produtos incríveis e impactar vidas.
+Um desenvolvedor que adora aplicar seus conhecimentos para resolver problemas, criar produtos incríveis e impactar vidas.
 
-## Você pode entrar em contato comigo em
+## Desenvolvedor Front-end
 
-📧dyogomblopes@gmail.com
+-🌎Estou morando em Recife - Brasil</br>
+-🧠Estudando JavaScript</br>
+-📧Você pode entrar em contato comigo em</br>
+dyogo.mblopes@gamil.com
