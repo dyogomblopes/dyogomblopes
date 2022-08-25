@@ -21,4 +21,4 @@ Um desenvolvedor que adora aplicar seus conhecimentos para resolver problemas, c
 -🌎Estou morando em Recife - Brasil</br>
 -🧠Estudando JavaScript</br>
 -📧Você pode entrar em contato comigo em</br>
-dyogo.mblopes@gamil.com
+dyogo.mblopes@gmail.com
