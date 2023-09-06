@@ -18,7 +18,7 @@ Um desenvolvedor que adora aplicar seus conhecimentos para resolver problemas, c
 
 ## Desenvolvedor Front-end
 
--🌎Estou morando em Recife - Brasil</br>
--🧠Estudando JavaScript</br>
+-🌎Estou morando em Sao paulo - Brasil</br>
+-🧠Estudando Flutter</br>
 -📧Você pode entrar em contato comigo em</br>
 dyogo.mblopes@gmail.com
